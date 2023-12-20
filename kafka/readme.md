@@ -12,6 +12,5 @@ Run the application:
 
 Test:
 ```shell
-./mvnw quarkus:dev
 curl -w "\n" -X POST http://localhost:8080/hello
 ```
