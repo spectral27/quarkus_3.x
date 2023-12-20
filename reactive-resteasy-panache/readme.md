@@ -2,7 +2,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 Install the PostgreSQL database:
 ```shell
-./setup/database.sh
+./setup/database
 ```
 
 Run the application:
